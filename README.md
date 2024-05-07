@@ -1,4 +1,4 @@
-# LT-Presidents-API
+# LT-Presidents-API (10 LINES OF CODE!)
 Fetch a random president of Lithuania and their information.
 Uses FastAPI, json and random libraries.
 
