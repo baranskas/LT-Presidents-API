@@ -1,0 +1,103 @@
+{
+  "presidents": [
+    {
+      "vardas": "Antanas",
+      "pavarde": "Smetona",
+      "gimimo_metai": 1874,
+      "mirties_metai": 1944,
+      "amzius": 70,
+      "kadenciju_skaicius": 2,
+      "partija": "nevadovavo partijai"
+    },
+    {
+      "vardas": "Kazys",
+      "pavarde": "Grinius",
+      "gimimo_metai": 1866,
+      "mirties_metai": 1950,
+      "amzius": 84,
+      "kadenciju_skaicius": 1,
+      "partija": "nevadovavo partijai"
+    },
+    {
+      "vardas": "Jonas",
+      "pavarde": "Staugaitis",
+      "gimimo_metai": 1868,
+      "mirties_metai": 1958,
+      "amzius": 90,
+      "kadenciju_skaicius": 1,
+      "partija": "Tautininkų sąjunga"
+    },
+    {
+      "vardas": "Antanas",
+      "pavarde": "Merkys",
+      "gimimo_metai": 1887,
+      "mirties_metai": 1955,
+      "amzius": 68,
+      "kadenciju_skaicius": 0,
+      "partija": "Valstiečių ir žaliųjų sąjunga"
+    },
+    {
+      "vardas": "Antanas",
+      "pavarde": "Smetona",
+      "gimimo_metai": 1874,
+      "mirties_metai": 1944,
+      "amzius": 70,
+      "kadenciju_skaicius": 2,
+      "partija": "Tautininkų sąjunga"
+    },
+    {
+      "vardas": "Justas",
+      "pavarde": "Paleckis",
+      "gimimo_metai": 1899,
+      "mirties_metai": 1980,
+      "amzius": 81,
+      "kadenciju_skaicius": 0,
+      "partija": "Lietuvos komunistų partija"
+    },
+    {
+      "vardas": "Algirdas",
+      "pavarde": "Brazauskas",
+      "gimimo_metai": 1932,
+      "mirties_metai": 2010,
+      "amzius": 77,
+      "kadenciju_skaicius": 1,
+      "partija": "Lietuvos komunistų partija"
+    },
+    {
+      "vardas": "Rolandas",
+      "pavarde": "Paksas",
+      "gimimo_metai": 1956,
+      "mirties_metai": null,
+      "amzius": 68,
+      "kadenciju_skaicius": 1,
+      "partija": "Tvarka ir teisingumas"
+    },
+    {
+      "vardas": "Valdas",
+      "pavarde": "Adamkus",
+      "gimimo_metai": 1926,
+      "mirties_metai": null,
+      "amzius": 98,
+      "kadenciju_skaicius": 2,
+      "partija": "Liberalų sąjūdis"
+    },
+    {
+      "vardas": "Dalia",
+      "pavarde": "Grybauskaitė",
+      "gimimo_metai": 1956,
+      "mirties_metai": null,
+      "amzius": 68,
+      "kadenciju_skaicius": 2,
+      "partija": "nevadovavo partijai"
+    },
+    {
+      "vardas": "Gitanas",
+      "pavarde": "Nausėda",
+      "gimimo_metai": 1964,
+      "mirties_metai": null,
+      "amzius": 60,
+      "kadenciju_skaicius": 1,
+      "partija": "nevadovavo partijai"
+    }
+  ]
+}
