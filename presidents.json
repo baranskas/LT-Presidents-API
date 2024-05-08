@@ -7,6 +7,10 @@
       "mirties_metai": 1944,
       "amzius": 70,
       "kadenciju_skaicius": 2,
+      "pirmi_kadencijos_pradzios_metai": 1919,
+      "pirmi_kadencijos_pabaigos_metai": 1920,
+      "antri_kadencijos_pradzios_metai": 1926,
+      "antri_kadencijos_pabaigos_metai": 1940,
       "partija": "nevadovavo partijai"
     },
     {
@@ -16,6 +20,8 @@
       "mirties_metai": 1950,
       "amzius": 84,
       "kadenciju_skaicius": 1,
+      "pirmi_kadencijos_pradzios_metai": 1926,
+      "pirmi_kadencijos_pabaigos_metai": 1938,
       "partija": "nevadovavo partijai"
     },
     {
@@ -25,6 +31,8 @@
       "mirties_metai": 1958,
       "amzius": 90,
       "kadenciju_skaicius": 1,
+      "pirmi_kadencijos_pradzios_metai": 1926,
+      "pirmi_kadencijos_pabaigos_metai": 1926,
       "partija": "Tautininkų sąjunga"
     },
     {
@@ -34,16 +42,9 @@
       "mirties_metai": 1955,
       "amzius": 68,
       "kadenciju_skaicius": 0,
+      "pirmi_kadencijos_pradzios_metai": null,
+      "pirmi_kadencijos_pabaigos_metai": null,
       "partija": "Valstiečių ir žaliųjų sąjunga"
-    },
-    {
-      "vardas": "Antanas",
-      "pavarde": "Smetona",
-      "gimimo_metai": 1874,
-      "mirties_metai": 1944,
-      "amzius": 70,
-      "kadenciju_skaicius": 2,
-      "partija": "Tautininkų sąjunga"
     },
     {
       "vardas": "Justas",
@@ -52,6 +53,8 @@
       "mirties_metai": 1980,
       "amzius": 81,
       "kadenciju_skaicius": 0,
+      "pirmi_kadencijos_pradzios_metai": null,
+      "pirmi_kadencijos_pabaigos_metai": null,
       "partija": "Lietuvos komunistų partija"
     },
     {
@@ -61,6 +64,8 @@
       "mirties_metai": 2010,
       "amzius": 77,
       "kadenciju_skaicius": 1,
+      "pirmi_kadencijos_pradzios_metai": 1993,
+      "pirmi_kadencijos_pabaigos_metai": 2003,
       "partija": "Lietuvos komunistų partija"
     },
     {
@@ -70,6 +75,8 @@
       "mirties_metai": null,
       "amzius": 68,
       "kadenciju_skaicius": 1,
+      "pirmi_kadencijos_pradzios_metai": 2003,
+      "pirmi_kadencijos_pabaigos_metai": 2004,
       "partija": "Tvarka ir teisingumas"
     },
     {
@@ -79,6 +86,8 @@
       "mirties_metai": null,
       "amzius": 98,
       "kadenciju_skaicius": 2,
+      "pirmi_kadencijos_pradzios_metai": 1998,
+      "pirmi_kadencijos_pabaigos_metai": 2009,
       "partija": "Liberalų sąjūdis"
     },
     {
@@ -88,6 +97,8 @@
       "mirties_metai": null,
       "amzius": 68,
       "kadenciju_skaicius": 2,
+      "pirmi_kadencijos_pradzios_metai": 2009,
+      "pirmi_kadencijos_pabaigos_metai": 2019,
       "partija": "nevadovavo partijai"
     },
     {
@@ -97,6 +108,8 @@
       "mirties_metai": null,
       "amzius": 60,
       "kadenciju_skaicius": 1,
+      "pirmi_kadencijos_pradzios_metai": 2019,
+      "pirmi_kadencijos_pabaigos_metai": 2024,
       "partija": "nevadovavo partijai"
     }
   ]
